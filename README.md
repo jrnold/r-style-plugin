@@ -1,5 +1,9 @@
 # r-style
 
+[![lint](https://github.com/jrnold/r-style-plugin/actions/workflows/lint.yml/badge.svg)](https://github.com/jrnold/r-style-plugin/actions/workflows/lint.yml)
+[![test](https://github.com/jrnold/r-style-plugin/actions/workflows/test.yml/badge.svg)](https://github.com/jrnold/r-style-plugin/actions/workflows/test.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 A [Claude Code](https://claude.com/claude-code) plugin with style rules for R
 packages. Its `roxygen-style` skill covers wording and style
 rules for roxygen2 documentation in R packages: titles, `@param`, `@returns`,
